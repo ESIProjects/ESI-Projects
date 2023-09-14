@@ -1,0 +1,1 @@
+Pas de TP, un projet qui commence aprés 4 ou 3 séances de cours, faire l'analyse, conception et proposition d'une nouvelle solution à un cas d'une entreprise qui veut se urbaniser, vous devez retourner un liverable aprés 3 jours de chaque séance, les liverables constitue le rapport finale, vous etes notés sur le rapport + une presentation finale

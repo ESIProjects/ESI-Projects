@@ -1,0 +1,1 @@
+TP chaque séance, noté, généralement guidé, aucune relation avec le cours, comprendre les bases de Odoo (voir Talents pour les TPs)

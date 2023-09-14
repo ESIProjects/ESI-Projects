@@ -1,0 +1,1 @@
+TP facultatif (il faut demandé le TP, il n'est pas mentioné), generalement sur une technologie dans l'AI (aucune relation au module), si le tp est fait, vous automatiquement aurez une 10 comme moyenne 

@@ -1,0 +1,2 @@
+- Developement d'un systeme GED pour la Bib de l'esi avec Alfresco
+- TP presentielle noté sur les BMPN (modelisation d'un cas)

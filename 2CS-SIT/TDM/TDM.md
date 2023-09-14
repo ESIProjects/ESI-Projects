@@ -1,0 +1,1 @@
+TP chaque séance, précédé par un cours, les TPs sont séquentielle, et font partie du projet du module (dev d'une app mobile Android)

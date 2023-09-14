@@ -1,0 +1,1 @@
+Pas de TP, une presentation est fait sur une methodologie de comptabilité, vous avez le choix, la présentation est de approx 20 min

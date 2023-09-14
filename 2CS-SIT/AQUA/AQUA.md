@@ -1,0 +1,1 @@
+5 devoirs, chacun correspond à appliquer ce qui était vu dans le cours (comme outil) à un cas données, voir cours pour les enoncés 

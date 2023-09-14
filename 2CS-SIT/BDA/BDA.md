@@ -1,0 +1,1 @@
+TP facultatif (+0.5 f la moyenne), generallement avec python + un SGBD, affectation aléatoire

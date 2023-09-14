@@ -1,0 +1,1 @@
+TP chaque séance TD depuis la 5ème séance, chaque séance est noté, l'énoncé est donné au debut du semestre, mais les notions sont expliqués dans les cours, le TP est séquentielle, sur l'implémentation d'une BDD + Site web + Servlet Java, dans Java Net Beans.

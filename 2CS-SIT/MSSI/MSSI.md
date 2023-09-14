@@ -1,0 +1,1 @@
+Les TPs ne sont pas fix, mais generalement étude de cas + application d'un model de conception (les TPs sont redonnées comme examens)

@@ -1,0 +1,2 @@
+- TP chaque séance,  sur le cours de la semaine passé, une application de l'algorithme étudié sur le language R, le TP est remis avec un rapport avant minuit, les tps constitut la note de CC (n'absenter pas)
+- Big TP, affecter aléatoirement, sur une nouvelle technologie dans le ML, vous avez 15 jours pour developper l'algorithm + un rapport + l'installation sur Spark, vous aurez une demo de 15 min

@@ -1,0 +1,6 @@
+- Etude de faisabilité
+- Modèle Archimate
+- Modèle SIPOC
+- Function Point Analysis
+- Modele Volere (Cahier de Charge)
+- Rapport Etude de l'existant
