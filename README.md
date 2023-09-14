@@ -1,32 +1,31 @@
 # ESI-Projects
 
-### Welcome to this Github repository which is the official repository for ESI Projects an open source project that I created for our student's school where I aim to gather a comprehensive collection of computer science projects completed by students at our National Higher Computer Science Engineering School in Algeria. 
+### Welcome to this Github repository which is the official repository for ESI Projects an open source project that we have created for our student's school where we aim to gather a comprehensive collection of computer science projects completed by students at our National Higher Computer Science Engineering School in Algeria. 
 <br>
 <br>
 
 
 <img src="src/ESI%20Projects.png" alt="Logo" width="400"/>
-
-<br>
 <br>
 
+# Note that:
 
-* #### This repository serves as a hub for project ideas and inspirations for students at all levels, from beginners to advanced programmers. 
+* ### This repository serves as a hub for project ideas and inspirations for students at all levels, from beginners to advanced programmers. 
 * ### Here you will find an extensive range of projects spanning multiple years, contributed by fellow students FROM ESI who have generously shared their work on Github. 
-* #### Pull requests are always welcome and encouraged, so if you have a project that you would like to share with others, or if you have an improvement to an existing project, please don't hesitate to submit a pull request. Let's collaborate and make this repository a valuable resource for students in our community. Happy coding!
+* ### Pull requests are always welcome and encouraged, so if you have a project that you would like to share with others, or if you have an improvement to an existing project, please don't hesitate to submit a pull request. Let's collaborate and make this repository a valuable resource for students in our community. Happy coding!
 
-## How to use this repository:
-* Go to the level where you want to explore projects
-* You will find a README.md file that will guide you to access different folders or different classes, or you can direcly access them.
-* Then you will find also another README.md file that guide you to explore different folders of Projects.
-* Then you can find all the projects
+# How to use this repository:
+* Go to the level of study where you want to explore projects.
+* You will find a README.md file that will guide you to access different folders for different Modules.
+* Then you will find also another README.md file that guide you to explore different folders of each Module.
+* Then you can find all the projects in that Module with README.md files that gives an overview and description of the project.
 
-* ## How to contribute ?
-    * #### **By filling the form:** 
-    - [Form](https://docs.google.com/forms/d/e/1FAIpQLScUQ5toGjDysObDA_wD3QnYdMyh70-1MArTPkVXGkfSIqX--Q/viewform?usp=sharing)
+# How to contribute ?
+   * #### **By filling the form:**
+     [Form](https://docs.google.com/forms/d/e/1FAIpQLScUQ5toGjDysObDA_wD3QnYdMyh70-1MArTPkVXGkfSIqX--Q/viewform?usp=sharing)
 
-            You can fill this form by the needed information and we will organize it in the repository.
-    * #### **By a pull request:**
+     You can fill this form by the needed information and we will organize it in the repository.
+   * #### **By a pull request:**
             Or you can just do a pull request after passing by these steps:
             - Clone this repository.
             - Add your Projects folder following this structure:
