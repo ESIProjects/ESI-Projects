@@ -35,7 +35,7 @@
                 example: 1CP > ALSDD > TP1 > TpCodageBanqueBouchouchaMohammedElAmine_MougariAymenAbderrahmane2021/2022_1CP
                 - The folder must contain a README.md in markdown format file that has to follow this structure:
                     - Level of study: 1CP, 2CP
-                    - Classname: ALSDD, SFSD ..etc
+                    - Module: ALSDD, SFSD ..etc
                     - Title: name of Project/Tp
                     - Technology used: C, Python, Cpp, Java ...etc
                     - Name of the student(s):
