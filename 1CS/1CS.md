@@ -46,7 +46,7 @@
 
 ### BDD
 
-- **TP**: Generally involves designing and creating an SQL database (usually with scraped data) and executing queries on the created database. [This year, we only had the part where we executed SQL queries on a database sent to us.]
+- **TP**: Generally involves designing and creating an SQL database (usually with scraped data) and executing queries on the created database.
 
 ### ARCHI3
 
