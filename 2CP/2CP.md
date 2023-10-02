@@ -14,7 +14,7 @@ In 2CP we have many projects to accomplish, which are:
     varies from one team to another. In this project, each group of teams 
     (for example,every 4 teams) will have a specific project brief.
     You will use different technologies, programming languages...etc.
-  - [**SINF:**](SINF): TP using MSProject,MySql ..etc
+  - [**SINF:**](SINF) TP using MSProject,MySql ..etc
      - This particular project is only assigned by some Tp teachers.
        
 
