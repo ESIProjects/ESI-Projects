@@ -44,13 +44,13 @@
                 You can find some clear examples in published projects. 
 
 # Let's start here are different levels:
-* ## [1CP](1CP)
-* ## [2CP](2CP)
-* ## [1CS](1CS)
-* ## [2CS-SID](2CS-SID)
-* ## [2CS-SIQ](2CS-SIQ)
-* ## [2CS-SIT](2CS-SIT)
-* ## [2CS-SIL](2CS-SIL)
+* ## [1CP](1CP/1CP.md)
+* ## [2CP](2CP/2CP.md)
+* ## [1CS](1CS/1CS.md)
+* ## [2CS-SID](2CS-SID/2CS-SID.md)
+* ## [2CS-SIQ](2CS-SIQ/2CS-SIQ.md)
+* ## [2CS-SIT](2CS-SIT/2CS-SIT.md)
+* ## [2CS-SIL](2CS-SIL/2CS-SIL.md)
 * ## [3CS](3CS)
 
 ## Here is our official website feel free to contact us:
