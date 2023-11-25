@@ -19,6 +19,22 @@
 * You will find a README.md file that will guide you to access different folders for different Modules.
 * Then you will find also another README.md file that guide you to explore different folders of each Module.
 * Then you can find all the projects in that Module with README.md files that gives an overview and description of the project.
+* **How to just download the folder I need ?**
+  
+  There are many websites that help you do this here is one: [https://download-directory.github.io/](https://download-directory.github.io/), Just copy the url that appears when you are in the folder you want to download.
+<br><br>
+
+
+# Let's start !
+* ## [1CP](./1st%20year%20-%201CP/1CP.md)
+* ## [2CP](./2nd%20year%20-%202CP/2CP.md)
+* ## [1CS](./3rd%20year-%201CS/1CS.md)
+* ## [2CS-SID](./4th%20year%20-%202CS-SID/2CS-SID.md)
+* ## [2CS-SIQ](./4th%20year%20-%202CS-SIQ/2CS-SIQ.md)
+* ## [2CS-SIT](./4th%20year%20-%202CS-SIT/2CS-SIT.md)
+* ## [2CS-SIL](./4th%20year%20-%202CS-SIL/2CS-SIL.md)
+* ## [PFE](./PFE/PFE.md)
+<br><br>
 
 # How to contribute ?
    * #### **By filling the form:**
@@ -42,16 +58,6 @@
                     - GitHub account of the user:
                     - Link to the GitHub repository of the project or the project's files itself.
                 You can find some clear examples in published projects. 
-
-# Let's start here are different levels:
-* ## [1CP](1CP/1CP.md)
-* ## [2CP](2CP/2CP.md)
-* ## [1CS](1CS/1CS.md)
-* ## [2CS-SID](2CS-SID/2CS-SID.md)
-* ## [2CS-SIQ](2CS-SIQ/2CS-SIQ.md)
-* ## [2CS-SIT](2CS-SIT/2CS-SIT.md)
-* ## [2CS-SIL](2CS-SIL/2CS-SIL.md)
-* ## [3CS](3CS)
 
 ## Here is our official website feel free to contact us:
 * [Website](linktoWebsite)
