@@ -18,6 +18,9 @@
 - [Amina](./TP1/TP1_operations%20sur%20les%20matrices%20creuse/Amina/README.md)
 - [Khaled Benamchiche](./TP1/TP1_operations%20sur%20les%20matrices%20creuse/Khaled%20Benamchiche/README.md)
 
+### Jeux Olympiques
+- [z && mari (meriem bouyahiaoui)](./TP1/TP1_Jeux%20Olympiques/z%20&&%20mari%20(meriem%20bouyahiaoui)/README.md)
+
 ## TP Z
 ### TP fusion arbres de recherches binaires
 - [Aya Malek Merabtine](./TPZ/TP%20Z%20-fusion%20arbres%20de%20recherches%20binaires/Aya%20Malek%20Merabtine/README.md)
