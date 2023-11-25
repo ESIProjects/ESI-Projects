@@ -1,5 +1,7 @@
 # 1CS
 
+**Ps: There is unfortunately only one project for 1CS for now, please contribute to make them more, here it [is](./S2/SYC2/Linux%20search%20command/README.md)**
+
 ## Semester 1
 
 ### SYS1
@@ -17,12 +19,12 @@
 
 ### ORG
 
-- [**TP1:**](#org-tp1) Simulating the organization of a sports event.
+- [**TP1:**](#org-tp1) Simulating the organization of an event.
 - [**TP2:**](#org-tp2) Generally a small project aimed at presenting a form of organization.
 
 ### ANUM
 
-- [**TP:**](#anum-tp) Mini lab assignment during the session to work with matrices using Scilab.
+- [**TP:**](#anum-tp) Mini lab assignment during the session to work with matrices using Scilab, and Matlab.
 
 ## Semester 2
 
@@ -32,7 +34,7 @@
 
 ### SYC2
 
-- [**TP:**](#syc2-tp) Lab assignments to understand GPT and MBR file management systems.
+- [**TP:**](./S2/SYC2/SYC2.md) Lab assignments to understand GPT and MBR file management systems.
 
 ### CPROJ
 

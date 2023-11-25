@@ -22,3 +22,5 @@ gcc search.o functions.o -o search
 **The expected result is:**
 
 This is search version 1.0
+
+**[Go back](../SYC2.md)**
