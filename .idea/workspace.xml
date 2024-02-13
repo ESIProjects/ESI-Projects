@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4637cbff-7411-45b2-a0dd-e97586198bea" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/CMakeLists.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/affichage.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/affichage.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/cmake-build-debug/.cmake/api/v1/query/cache-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/cmake-build-debug/.cmake/api/v1/query/cmakeFiles-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/cmake-build-debug/.cmake/api/v1/query/codemodel-v2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/cmake-build-debug/.cmake/api/v1/query/toolchains-v1" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/cmake-build-debug/.ninja_deps" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/cmake-build-debug/.ninja_log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/cmake-build-debug/CMakeCache.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/cmake-build-debug/CMakeFiles/3.27.8/CMakeCCompiler.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/cmake-build-debug/CMakeFiles/3.27.8/CMakeDetermineCompilerABI_C.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/cmake-build-debug/CMakeFiles/3.27.8/CMakeSystem.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/CMakeCCompilerId.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/cmake-build-debug/CMakeFiles/3.27.8/CompilerIdC/CMakeCCompilerId.o" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/cmake-build-debug/CMakeFiles/CMakeConfigureLog.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/cmake-build-debug/CMakeFiles/clion-Debug-log.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/cmake-build-debug/CMakeFiles/clion-environment.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/cmake-build-debug/CMakeFiles/cmake.check_cache" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/cmake-build-debug/FORCE_ARME_INDEX.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/cmake-build-debug/GRADE_INDEX.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/cmake-build-debug/MATRICULE_INDEX.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/cmake-build-debug/MILITAIRE_INDEX.idx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/cmake-build-debug/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/cmake-build-debug/PERSONNEL-ANP_DZ.dat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/cmake-build-debug/TP_SFSD_2023_KERMI" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/cmake-build-debug/TP_SFSD_2023_KERMI.cbp" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/cmake-build-debug/Testing/Temporary/LastTest.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/cmake-build-debug/build.ninja" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/cmake-build-debug/cmake_install.cmake" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/config.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/fonction.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/fonction.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/images/OIG.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/images/exit.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/images/help.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/images/image000.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/images/image01.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/images/image02.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/images/image03.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/images/image04.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/images/image05.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/images/image06.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/images/image07.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/images/image12.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/images/image13.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/images/image20.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/images/splash0.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/machine_abtraite.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/machine_abtraite.h" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/main.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/tempCodeRunnerFile.javascript" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/variable_globale.c" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP/tp gestion d'armee national 2023-2024/variable_globale.h" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "history": [
+    {
+      "state": "OPEN"
+    }
+  ],
+  "lastFilter": {
+    "state": "OPEN"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="8d0f951d-72b6-4366-9f79-073d6d2fb8ef" />
+        <option name="url" value="https://github.com/ESIProjects/ESI-Projects.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
+  <component name="ProjectId" id="2cJC1qhDzuOba0mV2AC8rXRp0An" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "git-widget-placeholder": "main",
+    "last_opened_file_path": "/Users/Apple/Desktop/ESI-Projects/2nd year - 2CP/SFSD/TP",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/2nd year - 2CP/SFSD/TP" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4637cbff-7411-45b2-a0dd-e97586198bea" name="Changes" comment="" />
+      <created>1707820081607</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1707820081607</updated>
+      <workItem from="1707820086525" duration="205000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
