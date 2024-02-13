@@ -4,5 +4,10 @@
 ## TP_School management system
 - [Abla Rabia](./TP/TP_School%20management%20system/Abla%20Rabia/README.md)
 - [Khaled Benamchiche](./TP/TP_School%20management%20system/BenamchicheKhaled/README.md)
+- ## TP_Gestion d'armee nationale
+- - [Korzane yasser](./TP/tp%20gestion%20d'armee%20national%202023-2024/README.md)
+- - [Blidi ilyes](./TP/tp%20gestion%20d'armee%20national%202023-2024/README.md)
+
+- 
 
 **[Go back](../2CP.md)**
