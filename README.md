@@ -59,6 +59,6 @@
                     - Link to the GitHub repository of the project or the project's files itself.
                 You can find some clear examples in published projects. 
 
-## Here is our official website feel free to contact us:
-* [Website](linktoWebsite)
+## Feel free to contact us:
+* [Website](https://esiprojects.vercel.app/)
 * Email: [esi-projects@proton.me](mailto:esi-projects@proton.me) 
