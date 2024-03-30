@@ -1,12 +1,16 @@
 # ESI-Projects
 
 ### Welcome to this Github repository which is the official repository for ESI Projects an open source project that we have created for our student's school where we aim to gather a comprehensive collection of computer science projects completed by students at our National Higher Computer Science Engineering School in Algeria. 
+Check: [Official website](https://esiprojects.vercel.app/)
+
 <br>
 <br>
+
 
 
 <img src="src/ESI%20Projects.png" alt="Logo" width="400"/>
 <br>
+
 
 # Note that:
 
