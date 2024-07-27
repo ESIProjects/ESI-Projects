@@ -24,7 +24,8 @@
 ## TP Z
 ### TP fusion arbres de recherches binaires
 - [Aya Malek Merabtine](./TPZ/TP%20Z%20-fusion%20arbres%20de%20recherches%20binaires/Aya%20Malek%20Merabtine/README.md)
-- [Khalil Boudib](./TPZ/TP%20Z%20-fusion%20arbres%20de%20recherches%20binaires/Khalil%20Boudib%20/README.md)
+- [Khalil Boudib](./TPZ/TP%20Z%20-fusion%20arbres%20de%20recherches%20binaires/Khalil%20Boudib/README.md)
 - [Ouail Mohammed Oucherif](./TPZ/TP%20Z%20-fusion%20arbres%20de%20recherches%20binaires/Ouail%20Mohammed%20Oucherif/README.md)
+- [Tati Youcef](./TPZ/TP%20Z%20-fusion%20arbres%20de%20recherches%20binaires/Tati%20Youcef/README.md)
 
 **[Go back](../1CP.md)**
