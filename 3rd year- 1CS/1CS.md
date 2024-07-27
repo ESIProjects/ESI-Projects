@@ -36,9 +36,11 @@
 
 ### CPROJ
 
-- [**TP1:**](./S2/CPROJ/TP1/TP1.md) Getting acquainted with and completing the 2CP project using MS Project.
-- [**TP2:**](./S2/CPROJ/TP2/TP2.md) Technical and financial response for improving Naftal station services.
-- [**TP3:**](./S2/CPROJ/TP3/TP3.md) Simulation of a decision-making meeting in a company, representing the departments.
+- **TP1:** Getting acquainted with and completing the 2CP project using MS Project.
+- **TP2:** Technical and financial response for improving Naftal station services.
+- **TP3:** Simulation of a decision-making meeting in a company, representing the departments.
+
+- [**Visit the module**](./S2/CPROJ/CPROJ.md)
 
 ### PROJ
 
