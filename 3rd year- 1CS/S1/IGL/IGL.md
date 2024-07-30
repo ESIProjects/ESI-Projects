@@ -1,5 +1,5 @@
 # IGL
-## Search Engine for scientific documents 
-- [Ayoub Kasmi and his Team](./Search-Engine-for-scientific-documents/Ayyoub-Kasmi/README.md)
+## Scientific Articles Search Engine
+- [Zaineb Boukhetala](./Scientific%20Articles%20Search%20Engine/Zaineb%20Boukhetala/README.md)
 
 **[Go back](../../1CS.md)**
