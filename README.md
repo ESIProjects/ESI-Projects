@@ -53,13 +53,14 @@ Or you can just do a pull request after passing by these steps:
 2. Clone your fork Repository:
 
     After forking, clone your forked repository to your local machine:
-        ```bash
-        git clone https://github.com/your-username/ESI-Projects.git
-        ```
+    
+    ```bash
+    git clone https://github.com/your-username/ESI-Projects.git
+    ```
 3. Create a new Branch:
-        ```bash
-        git checkout -b new-branch
-        ```
+    ```bash
+    git checkout -b new-branch
+    ```
 4. Add your Projects folder following this structure:
 
         - Name of the folder: Title of the Project/TP + Full Name of the student or/and binome + year + _ + level/ following the camel case format 
@@ -78,16 +79,16 @@ Or you can just do a pull request after passing by these steps:
 5. Commit Your Changes:
 
     Add and commit your changes with a descriptive message:
-        ```bash
-        git add .
-        git commit -m "Add a brief description of your changes"
-        ```
+    ```bash
+    git add .
+    git commit -m "Add a brief description of your changes"
+    ```
 6. Push to Your Fork:
 
     Push your changes to the branch on your forked repository:
-        ```bash
-        git push origin new-branch
-        ```
+    ```bash
+    git push origin new-branch
+    ```
 7. Create a Pull Request:
 
     Go to the original repository on GitHub and submit a pull request from your forked repository. 
