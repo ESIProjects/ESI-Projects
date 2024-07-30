@@ -41,21 +41,26 @@ Check: [Official website](https://esiprojects.vercel.app/)
 <br><br>
 
 # How to contribute ?
-   * #### **By filling the form:**
-     [Form](https://docs.google.com/forms/d/e/1FAIpQLScUQ5toGjDysObDA_wD3QnYdMyh70-1MArTPkVXGkfSIqX--Q/viewform?usp=sharing)
-     You can fill this form by the needed information and we will organize it in the repository.
-   * #### **By a pull request:**
-     Or you can just do a pull request after passing by these steps:
-   1. Fork the Repository:
-     Create a personal copy of the repository.
-   2. **Clone Your Fork**
-     After forking, clone your forked repository to your local machine:
-     ```bash
-     git clone https://github.com/your-username/ESI-Projects.git
-   3. Create a new Branch:
-     ```bash
+## **By filling the form:**
+[Form](https://docs.google.com/forms/d/e/1FAIpQLScUQ5toGjDysObDA_wD3QnYdMyh70-1MArTPkVXGkfSIqX--Q/viewform?usp=sharing)
+You can fill this form by the needed information and we will organize it in the repository.
+## **By a pull request:**
+Or you can just do a pull request after passing by these steps:
+1. Fork the Repository:
+
+Create a personal copy of the repository.
+2. Clone your fork Repository:
+
+After forking, clone your forked repository to your local machine:
+```bash
+git clone https://github.com/your-username/ESI-Projects.git
+```
+3. Create a new Branch:
+```bash
      git checkout -b new-branch
-   4. Add your Projects folder following this structure:
+```
+4. Add your Projects folder following this structure:
+
                 - Name of the folder: Title of the Project/TP + Full Name of the student or/and binome + year + _ + level/ following the camel case format 
                 example: TpCoupeDuMondeBouchouchaMohammedElAmine_MougariAymenAbderrahmane2021/2022_1CP
                 - This folder has to be in the right emplacement which means: LevelOfStudies > Class title > TP title > YourFolder
@@ -69,18 +74,23 @@ Check: [Official website](https://esiprojects.vercel.app/)
                 - GitHub account of the user:
                 - Link to the GitHub repository of the project or the project's files itself.
                 #You can find some clear examples in published projects. 
-   5. Commit Your Changes:
-     Add and commit your changes with a descriptive message:
-    ```bash
-    git add .
-    git commit -m "Add a brief description of your changes"
-   6. Push to Your Fork:
-    Push your changes to the branch on your forked repository:
-    ```bash
-    git push origin new-branch
-   7. Create a Pull Request:
-    Go to the original repository on GitHub and submit a pull request from your forked repository. 
+5. Commit Your Changes:
 
-## Feel free to contact us:
+Add and commit your changes with a descriptive message:
+```bash
+git add .
+git commit -m "Add a brief description of your changes"
+```
+6. Push to Your Fork:
+
+Push your changes to the branch on your forked repository:
+```bash
+git push origin new-branch
+```
+7. Create a Pull Request:
+
+Go to the original repository on GitHub and submit a pull request from your forked repository. 
+
+# Feel free to contact us:
 * [Website](https://esiprojects.vercel.app/)
 * Email: [esi-projects@proton.me](mailto:esi-projects@proton.me) 
