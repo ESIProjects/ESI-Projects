@@ -21,6 +21,12 @@
 ### Jeux Olympiques
 - [z && mari (meriem bouyahiaoui)](./TP1/TP1_Jeux%20Olympiques/z%20&&%20mari%20(meriem%20bouyahiaoui)/README.md)
 
+### TP UNO
+- [Belguesmia Oussama , Belloul Zineedine](./TP1/TP1_TP%20UNO/Kouider%20Ansam%2C%20Arrouci%20Sara/README.md)
+
+### Bank Manger
+- [Kouider Ansam, Arrouci Sara](./TP1/TP1_Bank%20Manger/Belguesmia%20Oussama%20%2C%20Belloul%20Zineedine/README.md)
+
 ## TP Z
 ### TP fusion arbres de recherches binaires
 - [Aya Malek Merabtine](./TPZ/TP%20Z%20-fusion%20arbres%20de%20recherches%20binaires/Aya%20Malek%20Merabtine/README.md)
