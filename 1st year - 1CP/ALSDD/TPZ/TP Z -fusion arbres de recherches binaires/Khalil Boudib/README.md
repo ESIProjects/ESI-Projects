@@ -4,6 +4,6 @@
 - Technology used: Khawarizm & C Language
 - Name of the student(s): Khalil Boudib
 - GitHub account of the user: [khaldiboudib](https://github.com/khalilboudib)
-- [Link to the project](./TP%20Z_khalilboudib.zip) *(it's a zip file)*
+- [Link to the project](https://drive.google.com/drive/u/1/folders/1j96MOJgaL1a3DJeRGIYC6EolrlrK41eA) *(it's a zip file)*
 
 **[Go back](../../../ALSDD.md)**
