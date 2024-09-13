@@ -1,7 +1,0 @@
-# depslib dependency file v1.0
-1687023184 source:c:\users\hp\desktop\documents\esi\programmes\c\codeblocks\les arbres\tp_algo\main.c
-	<stdio.h>
-	<stdlib.h>
-	<Time.h>
-	<math.h>
-
