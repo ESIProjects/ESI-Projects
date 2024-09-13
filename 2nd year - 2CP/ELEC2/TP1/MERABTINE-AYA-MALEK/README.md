@@ -4,7 +4,7 @@
 - Technology used: Multisim
 - Name of the student(s): MERABTINE AYA MALEK et GHECHAM SARAH
 - GitHub account of the user: *none*
-- [Link to the project](./TP1_MERABTINE_AYAMALEK_GHECHAM_SARAH_G09.zip)
+- [Link to the project](https://drive.google.com/drive/u/1/folders/1s2lIFIjKd6LLV1YAOcqDPCCH-XnaCXmX)
 
 
 

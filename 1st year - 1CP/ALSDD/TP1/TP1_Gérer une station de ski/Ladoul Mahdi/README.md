@@ -4,7 +4,7 @@
 - Technology used: C language
 - Name of the student(s): Ladoul Mahdi
 - GitHub account of the user: [ladoulmahdi](https://github.com/ladoulmahdi)
-- [Link to the project](./LADOUL_HELLALET_TP1_G7.zip)
+- [Link to the project](https://drive.google.com/drive/u/1/folders/11Sl5ZxsNJWMEJ73S7zw2XZcP0_apEjm4)
 
 
 **[Go back](../../../ALSDD.md)**
