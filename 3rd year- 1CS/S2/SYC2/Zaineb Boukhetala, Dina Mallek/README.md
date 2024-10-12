@@ -6,4 +6,4 @@
 - GitHub account of the user: [zcybrgd](https://github.com/zcybrgd)
 - [Link to the project](https://drive.google.com/drive/folders/1EgZV2Ia3ZvYosyr5BD5RFzvCD6uHpRwl)
  
-**[Go back](../../SYC2.md)**	
+**[Go back](../SYC2.md)**	
