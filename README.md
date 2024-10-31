@@ -42,7 +42,7 @@ Check: [Official website](https://esiprojects.vercel.app/)
 
 # How to contribute ?
 * ## **By filling the form:**
-[Form](https://docs.google.com/forms/d/e/1FAIpQLScUQ5toGjDysObDA_wD3QnYdMyh70-1MArTPkVXGkfSIqX--Q/viewform?usp=sharing)
+[Form](https://forms.gle/31MuJFEcgyaxgT1w9)
 You can fill this form by the needed information and we will organize it in the repository.
 * ## **By a pull request:**
 Or you can just do a pull request after passing by these steps:
